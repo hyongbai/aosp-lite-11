@@ -210,3 +210,7 @@ frameworks/base/media/tests/contents/media_api/videoeditor/
 **/*.mp4
 **/*.ttf
 **/.git
+**/.3gp
+**/.amr
+**/.mid
+
