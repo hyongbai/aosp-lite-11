@@ -204,3 +204,9 @@ iOSInjectionProject/
 
 frameworks/base/cmds/incidentd/testdata/
 frameworks/base/media/tests/contents/media_api/videoeditor/
+**/*.ogg
+**/*.wav
+**/*.mp3
+**/*.mp4
+**/*.ttf
+**/.git
